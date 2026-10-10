@@ -1,0 +1,10 @@
+GitHub Actions Workflow Validation
+
+Repository: https://github.com/patilpooja2005/ci-cd-final-project
+Workflow: Add CI workflow with linting and unit tests #2
+Branch: main
+Status: Success
+Build job: Success
+Duration: 22 seconds
+
+Verified on the GitHub Actions page.
